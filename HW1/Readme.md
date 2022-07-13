@@ -8,24 +8,24 @@
 
     1. шапка
 
-![шапка](HW1\head.jpg)
+![шапка](https://github.com/alexe127/Web_Hw1/blob/main/HW1/head.jpg)
 
     2. контент и виджеты
 
-![контент,виджеты](HW1\контент,виджеты.jpg)
+![контент,виджеты](https://github.com/alexe127/Web_Hw1/blob/main/HW1/%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82%2C%20%D0%B2%D0%B8%D0%B4%D0%B6%D0%B5%D1%82%D1%8B.jpg)
 
     3. подвал
 
- ![подвал](HW1\контент,виджеты.jpg)   
+ ![подвал](https://github.com/alexe127/Web_Hw1/blob/main/HW1/%D0%BF%D0%BE%D0%B4%D0%B2%D0%B0%D0%BB.jpg)   
 
  3 Внесите не менее 10 изменений на страницу
 
  Было:
 
- ![было](C:\учёба\web\HomeworkWeb\HW1\Было.png) 
+ ![было](https://github.com/alexe127/Web_Hw1/blob/main/HW1/%D0%91%D1%8B%D0%BB%D0%BE.png) 
 
 Стало:
 
-![стало](C:\учёба\web\HomeworkWeb\HW1\Стало.png) 
+![стало](https://github.com/alexe127/Web_Hw1/blob/main/HW1/%D0%A1%D1%82%D0%B0%D0%BB%D0%BE.png) 
 
 
